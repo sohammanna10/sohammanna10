@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Soham</h1>
-<h3 align="center">⚡ Where Code Meets Circuits ⚡</h3>
+<h3 align="center">⚡ Not Just Thinking — Building ⚡</h3>
 
 🧠 About Me
 
