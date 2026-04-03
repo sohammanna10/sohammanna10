@@ -52,3 +52,12 @@ Engineering isn't just theory — it's building solutions that matter.
 
 
 ⭐ Code. Build. Evolve.
+
+
+📊 GitHub Stats  
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sohammanna10&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=sohammanna10&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohammanna10&layout=compact&theme=radical)
