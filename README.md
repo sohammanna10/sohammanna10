@@ -17,9 +17,9 @@
 ⚙️ Tech Stack
 
 
-💻Languages:C | C++ | Python | Java
+💻Languages:C | C++ | Python | Java | JavaScript
 
-🔌Domains:Embedded Systems | IoT
+🔌Domains:Software Design & Development | IOT | Embedded Systems
 
 📊Tools: MATLAB
 
